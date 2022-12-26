@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 48,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/nicole-lee",
+      "title": "What we bought: The NuPhy Air75 is the low-profile, Mac-friendly mechanical keyboard I’ve been looking for | Engadget",
+      "description": "I decided on a whim to look into the mechanical keyboard world a little more.",
+      "url": "https://www.engadget.com/nuphy-air75-keyboard-irl-153521230.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/5b60b9a0-74bd-11ed-bd55-79eccc7146ee",
+      "publishedAt": "2022-12-12T15:52:20.070164Z",
+      "content": "For as long as I can remember, my primary keyboard has been the standard wireless model from Apple. I even upgraded to the Magic keyboard when it was introduced in 2015. After all, I thought, it work… [+4752 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Twitter begins rolling out its Community Notes feature globally",
+      "description": "Twitter announced over the weekend that Community Notes are now visible around the world.",
+      "url": "https://techcrunch.com/2022/12/12/twitter-begins-rolling-out-its-community-notes-feature-globally/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/twitter-community-notes.jpeg?resize=1200,735",
+      "publishedAt": "2022-12-12T15:19:15Z",
+      "content": "Twitter announced over the weekend that Community Notes are now visible around the world. Community Notes, which was previously known as Birdwatch, is the social media giant’s crowdsourced fact-check… [+1812 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "The world's permafrost is rapidly thawing and that's a big climate change problem | CBC News",
+      "description": "Permafrost thaw will mean an increase in greenhouse gas emissions over the next century, potentially as much as another large industrial nation. We take a look at its impact on emissions, but also its direct effect on the Arctic landscape.",
+      "url": "http://www.cbc.ca/news/canada/edmonton/the-world-s-permafrost-is-rapidly-thawing-and-that-s-a-big-climate-change-problem-1.6674976",
+      "urlToImage": "https://i.cbc.ca/1.6675013.1670272859!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/permafrost-slump.JPG",
+      "publishedAt": "2022-12-12T15:07:22.6945331Z",
+      "content": "The Prairies Climate Change Project is a joint initiative between CBC Edmonton and CBC Saskatchewan that focuses on weather and our changing climate. Meteorologist Christy Climenhaga brings her exper… [+8967 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Tributes for soccer journalist Grant Wahl pour in",
+      "description": "Renowned soccer writer Grant Wahl is remembered by friends and colleagues after his sudden death at the World Cup. Errol Barnett reports.",
+      "url": "https://www.cbsnews.com/video/tributes-for-soccer-journalist-grant-wahl-pour-in/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/12/12/eb5f6d32-4058-41e8-ba7b-721b3b2856f1/thumbnail/1200x630/41d7d58be783bf5e51ed48065e14ae54/1212-cbsm-grantwahl-barnett-mid-1539054-640x360.jpg",
+      "publishedAt": "2022-12-12T14:57:06+00:00",
+      "content": "Watch CBS News\r\nCopyright ©2022 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "World Cup performance review not to be made public",
+      "description": "A review into the England's performance at the recent Rugby World Cup will not be made public by the Rugby Football Union.",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/63942309",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/15F83/production/_127978998_gettyimages-1440917927.jpg",
+      "publishedAt": "2022-12-12T14:52:29.0075813Z",
+      "content": "Simon Middleton has won five Six Nations titles with England\r\nA review into England's performance at the recent Rugby World Cup will not be made public by the Rugby Football Union. \r\nEngland's women … [+1054 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Nuclear fusion could give the world a limitless source of clean energy. We’re closer than ever to it",
+      "description": "A recent experiment showed this virtually limitless form of clean power is possible on Earth. Now, one of the most complex energy projects in history aims to make nuclear fusion a reality for the whole planet.",
+      "url": "https://www.cnn.com/interactive/2022/05/world/iter-nuclear-fusion-climate-intl-cnnphotos/",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220527163342-01-iter-nuclear-fusion-climate-intl-cnnphotos-super-tease.jpg",
+      "publishedAt": "2022-12-12T14:22:26.71005Z",
+      "content": "ITERs fusion energy experiments will take place inside the vacuum vessel of a donut-shaped machine called a tokamak.Saint-Paul-lez-Durance, France From a small hill in the southern French region of P… [+16432 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Second World Cup journalist 'died suddenly' after Grant Wahl passes away: report",
+      "description": "Khalid al-Misslam, a Qatari, was a photojournalist for Al Kass TV reportedly \"died suddenly\" when he was covering the World Cup just hours after Grant Wahl died.",
+      "url": "https://www.foxnews.com/sports/second-world-cup-journalist-died-suddenly-grant-wahl-passes-away-report",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/World-Cup-performance.jpg",
+      "publishedAt": "2022-12-12T14:22:24.1169467Z",
+      "content": "A second journalist covering the World Cup in Qatar died Sunday just hours after American soccer journalist Grant Wahl passed away.\r\nKhalid al-Misslam, a Qatari, was a photojournalist for Al Kass TV … [+2663 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "Yan Bingtao suspended from World Snooker Tour",
+      "description": "Former Masters champion Yan Bingtao is suspended from the World Snooker Tour as part of an ongoing investigation into match-fixing.",
+      "url": "http://www.bbc.co.uk/sport/snooker/63945840",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5ECB/production/_127976242_yanbingtao.jpg",
+      "publishedAt": "2022-12-12T13:52:32.1946799Z",
+      "content": "Yan Bingtao won the Masters on his debut aged 20\r\nFormer Masters champion Yan Bingtao has been suspended from the World Snooker Tour (WST) as part of an ongoing investigation into match-fixing.\r\nChin… [+712 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Sean O'Brien",
+      "title": "England vs France referee Wilton Sampaio ‘could be in charge of World Cup final’ despite ‘awful’ perform...",
+      "description": "",
+      "url": "https://talksport.com/football/1274911/england-vs-france-referee-wilton-sampaio-world-cup-final/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/12/2022-quarterfinal-match-france-england-782058761.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2022-12-12T13:05:12Z",
+      "content": "Wilton Sampaio, the referee who infuriated England during their quarter-final defeat to France, could be in charge of the World Cup final.\r\nThe Brazilian official made a number of questionable decisi… [+2634 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Alastair Marsh, Frances Schwartzkopff",
+      "title": "Vanguard defends its net zero exit as critics pile in",
+      "description": "It comes after former US vice president Al Gore slammed Vanguard’s decision to quit the world’s biggest climate-finance alliance as “irresponsible and shortsighted.”",
+      "url": "http://www.afr.com/world/north-america/vanguard-defends-its-net-zero-exit-as-critics-pile-in-20221212-p5c5si",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.699%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_372%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d8edad1e014a65e48fb1012d736e1e8a9ed576ca",
+      "publishedAt": "2022-12-12T12:56:05Z",
+      "content": "But Vanguards defection has shone a torch on a weak link in the finance industrys net-zero claims. The fund manager has about 80 per cent of its portfolio assets in index-tracking funds. As a result,… [+2585 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "World's Richest Family With $300 Billion: Mideast Newsletter",
+      "description": "",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9uZXdzbGV0dGVycy8yMDIyLTEyLTEyL3dvcmxkLXMtcmljaGVzdC1mYW1pbHktd2l0aC0zMDAtYmlsbGlvbi1taWRlYXN0LW5ld3NsZXR0ZXLSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-12-12T12:43:48+00:00",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Exclusive: U.S. Justice Dept is split over charging Binance as crypto world falters",
+      "description": "Splits between U.S. Department of Justice prosecutors are delaying the conclusion of a long-running criminal investigation into the world's largest cryptocurrency exchange Binance, four people familiar with the matter have told Reuters.",
+      "url": "https://www.reuters.com/markets/us/us-justice-dept-is-split-over-charging-binance-crypto-world-falters-sources-2022-12-12/",
+      "urlToImage": "https://www.reuters.com/resizer/PZ0gp-L-Yly_HCMs9Dk1KxiNRWI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3RKSG4YYOFJIDLFKKSCFCMWJWQ.jpg",
+      "publishedAt": "2022-12-12T12:34:11Z",
+      "content": "WASHINGTON, Dec 12 (Reuters) - Splits between U.S. Department of Justice prosecutors are delaying the conclusion of a long-running criminal investigation into the world's largest cryptocurrency excha… [+13709 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "England have bright future ahead - Shearer",
+      "description": "BBC Sport pundit Alan Shearer says England have a bright future ahead after their 2-1 quarter-final defeat by France in the World Cup.",
+      "url": "http://www.bbc.co.uk/sport/av/football/63945000",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/16D25/production/_127977439_v2mmftbsheareronenglandfuture.10_04_17_19.still002.jpg",
+      "publishedAt": "2022-12-12T12:07:16.975954Z",
+      "content": "BBC Sport pundit Alan Shearer says England have a bright future ahead despite their 2-1 quarter-final defeat by France in the World Cup.\r\nWatch all the World Cup action across the BBC Sport website a… [+67 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "Sutton's World Cup semi-final predictions",
+      "description": "BBC Sport's football expert Chris Sutton predicts the scores for the two World Cup semi-finals in Qatar.",
+      "url": "http://www.bbc.co.uk/sport/football/63927739",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/3F1D/production/_127675161_chrissutton'spredictions.jpg",
+      "publishedAt": "2022-12-12T11:52:23.3513569Z",
+      "content": "<table><tr><th>Fifa World Cup</th></tr>\r\n<tr><td>Host nation: Qatar Dates: 20 November-18 December Coverage: Live on BBC TV, BBC iPlayer, BBC Radio 5 Live, BBC Sounds and the BBC Sport website and ap… [+6282 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "LUIS ANDRES HENAO",
+      "title": "Stadium sensory rooms allow fans World Cup games experience",
+      "description": "DOHA, Qatar (AP) — Away from the roaring noise, lights and fireworks of World Cup games, there’s a safe space for fans who might get overwhelmed in a stadium environment.",
+      "url": "https://apnews.com/bfed95bb1ab3b0547928040f7e82a01c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/70d5bd87b84848ba838a37dfc5f2a399/3000.jpeg",
+      "publishedAt": "2022-12-12T11:02:54Z",
+      "content": "DOHA, Qatar (AP) — Away from the roaring noise, lights and fireworks of World Cup games, there’s a safe space for fans who might get overwhelmed in a stadium environment.The “sensory rooms,” at three… [+3202 chars]"
+    },
+    {
+      "source": {
+        "id": "four-four-two",
+        "name": "FourFourTwo"
+      },
+      "author": "Greg Lea",
+      "title": "Chelsea report: Blues locked in three-way battle for World Cup defensive star",
+      "description": "Chelsea are one of three Premier League clubs looking to sign the centre-back",
+      "url": "https://www.fourfourtwo.com/news/chelsea-report-blues-locked-in-three-way-battle-for-world-cup-defensive-star",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cuN2cBdcpHHmSg7gSp5Hq7-1200-80.jpg",
+      "publishedAt": "2022-12-12T10:16:56Z",
+      "content": "Chelsea are one of three Premier League clubs keen to sign Josko Gvardiol, according to reports, after the Croatia international's star performances at this World Cup.\r\nThe 20-year-old has been one o… [+1917 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "George Pearkes",
+      "title": "Ford F-150 Lightning: all-electric pickup truck, engine is future of US economy",
+      "description": "Forget SpaceX rockets and AI chatbots — the invention that's going to reshape our world is the all-electric pickup truck.",
+      "url": "http://www.businessinsider.com/ford-f-150-lightning-electric-pickup-truck-delays-engine-2022-12",
+      "urlToImage": "https://i.insider.com/6393b31aa3bebb0018b3f07f?width=1200&format=jpeg",
+      "publishedAt": "2022-12-12T10:04:00Z",
+      "content": "The gas station has been a fixture of our roads and neighborhoods since the internal-combustion-engine car took hold in the early 20th century.\r\nThese multicolored, brightly lit shrines to car cultur… [+12163 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": "George Pearkes",
+      "title": "Ford F-150 Lightning: all-electric pickup truck, engine is future of US economy",
+      "description": "Forget SpaceX rockets and AI chatbots — the invention that's going to reshape our world is the all-electric pickup truck.",
+      "url": "http://uk.businessinsider.com/ford-f-150-lightning-electric-pickup-truck-delays-engine-2022-12",
+      "urlToImage": "https://i.insider.com/6393b31aa3bebb0018b3f07f?width=1200&format=jpeg",
+      "publishedAt": "2022-12-12T10:04:00Z",
+      "content": "The gas station has been a fixture of our roads and neighborhoods since the internal-combustion-engine car took hold in the early 20th century.\r\nThese multicolored, brightly lit shrines to car cultur… [+12163 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "talkSPORT",
+      "title": "World Cup news LIVE: England squad return home after World Cup exit, latest on Gareth Southgate,...",
+      "description": "",
+      "url": "https://talksport.com/football/1274199/world-cup-news-live-scores-results-england-kane-southgate-france-morocco-croatia-argentina/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/11/TALKSPORT-WORLD-CUP-COMP-copy.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2022-12-12T09:11:55Z",
+      "content": "England are out of the 2022 World Cup following a quarter-final defeat to France.\r\nThe showpiece tournament is now at the semi-final stage but the Three Lions’ journey has ended after an agonising lo… [+635 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "STAN CHOE",
+      "title": "Wall Street holds steady ahead of final rate hikes for year",
+      "description": "NEW YORK (AP) — Wall Street is holding steady Monday, opening a week where central banks are likely to unload the year’s final barrage of interest-rate hikes meant to drive down the world’s painfully high inflation.",
+      "url": "https://apnews.com/038070075ce0a5bfd3b6141b070a3abc",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e6bd8257e5d9486b819507058090dc59/3000.jpeg",
+      "publishedAt": "2022-12-12T05:57:29Z",
+      "content": "NEW YORK (AP) — Wall Street is holding steady Monday, opening a week where central banks are likely to unload the year’s final barrage of interest-rate hikes meant to drive down the world’s painfully… [+4188 chars]"
+    }
+  ]
+}
